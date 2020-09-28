@@ -1,0 +1,13 @@
+D:\LICENCIATURA EN INFORMATICA\2° AÑO\TALLER DE LENGUAJES 2\tpnro4-Cristian021195\Cadeteria4\bin\Debug\netcoreapp3.1\Cadeteria4.exe
+D:\LICENCIATURA EN INFORMATICA\2° AÑO\TALLER DE LENGUAJES 2\tpnro4-Cristian021195\Cadeteria4\bin\Debug\netcoreapp3.1\Cadeteria4.deps.json
+D:\LICENCIATURA EN INFORMATICA\2° AÑO\TALLER DE LENGUAJES 2\tpnro4-Cristian021195\Cadeteria4\bin\Debug\netcoreapp3.1\Cadeteria4.runtimeconfig.json
+D:\LICENCIATURA EN INFORMATICA\2° AÑO\TALLER DE LENGUAJES 2\tpnro4-Cristian021195\Cadeteria4\bin\Debug\netcoreapp3.1\Cadeteria4.runtimeconfig.dev.json
+D:\LICENCIATURA EN INFORMATICA\2° AÑO\TALLER DE LENGUAJES 2\tpnro4-Cristian021195\Cadeteria4\bin\Debug\netcoreapp3.1\Cadeteria4.dll
+D:\LICENCIATURA EN INFORMATICA\2° AÑO\TALLER DE LENGUAJES 2\tpnro4-Cristian021195\Cadeteria4\bin\Debug\netcoreapp3.1\Cadeteria4.pdb
+D:\LICENCIATURA EN INFORMATICA\2° AÑO\TALLER DE LENGUAJES 2\tpnro4-Cristian021195\Cadeteria4\obj\Debug\netcoreapp3.1\Cadeteria4.csprojAssemblyReference.cache
+D:\LICENCIATURA EN INFORMATICA\2° AÑO\TALLER DE LENGUAJES 2\tpnro4-Cristian021195\Cadeteria4\obj\Debug\netcoreapp3.1\Cadeteria4.AssemblyInfoInputs.cache
+D:\LICENCIATURA EN INFORMATICA\2° AÑO\TALLER DE LENGUAJES 2\tpnro4-Cristian021195\Cadeteria4\obj\Debug\netcoreapp3.1\Cadeteria4.AssemblyInfo.cs
+D:\LICENCIATURA EN INFORMATICA\2° AÑO\TALLER DE LENGUAJES 2\tpnro4-Cristian021195\Cadeteria4\obj\Debug\netcoreapp3.1\Cadeteria4.csproj.CoreCompileInputs.cache
+D:\LICENCIATURA EN INFORMATICA\2° AÑO\TALLER DE LENGUAJES 2\tpnro4-Cristian021195\Cadeteria4\obj\Debug\netcoreapp3.1\Cadeteria4.dll
+D:\LICENCIATURA EN INFORMATICA\2° AÑO\TALLER DE LENGUAJES 2\tpnro4-Cristian021195\Cadeteria4\obj\Debug\netcoreapp3.1\Cadeteria4.pdb
+D:\LICENCIATURA EN INFORMATICA\2° AÑO\TALLER DE LENGUAJES 2\tpnro4-Cristian021195\Cadeteria4\obj\Debug\netcoreapp3.1\Cadeteria4.genruntimeconfig.cache
