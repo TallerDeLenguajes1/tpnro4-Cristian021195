@@ -15,7 +15,7 @@ namespace Cadeteria4
         private static double costoPedido = 150;
         //de referencia aleatoria
         private static Random rand = new Random();
-        private static string[] _cliente = { "cristian", "ismael", "js", "node", "angular", "mongo" };
+        private static string[] _cliente = { "Cristian", "Manuel", "Impostor", "Juancho", "Melo", "Meli" };
         private static string[] _cadete = { "cadete_rojo", "cadete_azul", "cadete_amarillo", "cadete_morado", "cadete_naranja", "cadete_verde" };
         private static string[] _direcciones = { "san luis", "libano", "formosa", "sarmiento", "san martin", "independencia" };
         private static string[] _telefonos = { "+543865332311", "+543256989859", "+543819595986", "+541123659856", "+543863456789", "+39415623515" };
@@ -106,6 +106,12 @@ namespace Cadeteria4
             foreach (Cadete cadete in cadetes)
             {
                 Console.WriteLine("CADETE: {0} ({1}), direccion: {2}, telefono: {3}\n", cadete.Nombre, cadete.Id, cadete.Direccion, cadete.Telefono);
+            }
+        }
+        public static void Presentaciones(Cadete cadete) {
+            Console.WriteLine("Cadete: {0} {1}",cadete.Nombre,cadete.Presertarse());
+            foreach (Pedido e in cadete.pedidos) {
+                Console.WriteLine("\tCliente: {0} {1}", e.Cliente.Nombre, e.Cliente.Presertarse());
             }
         }
     }

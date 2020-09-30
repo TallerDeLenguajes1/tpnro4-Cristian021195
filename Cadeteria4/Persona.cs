@@ -16,5 +16,8 @@ namespace Cadeteria4
         public string Direccion { get => direccion; set => direccion = value; }
         public string Telefono { get => telefono; set => telefono = value; }
 
+        public virtual string Presertarse() {
+            return "Hola soy una persona";
+        }
     }
 }

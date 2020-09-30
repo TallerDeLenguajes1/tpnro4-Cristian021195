@@ -13,7 +13,7 @@ namespace Cadeteria4
             Console.WriteLine("Ingrese la cantidad de cadetes disponibles hoy: ");
             cadeteria.Cadetes = Helper.cargarCadetes(Convert.ToInt32(Console.ReadLine()));//cargamos cadetes a la cadeteria
             do {
-                Console.WriteLine("1 Informe Simplificado\n2 Empleado del dia\n3 Promedio Entregados\n4 Listado Total\n0 SALIR!!!:");
+                Console.WriteLine("1 Informe Simplificado\n2 Empleado del dia\n3 Promedio Entregados\n4 Listado Total\n5 Presentaciones\n0 SALIR!!!:");
                 op = Convert.ToInt32(Console.ReadLine());
                 if (op == 1)
                 {
@@ -35,7 +35,11 @@ namespace Cadeteria4
                     Console.Clear();
                     Helper.mostrarDetallesDelDia(cadeteria.Cadetes);
                 }
+                else if (op == 5)
+                {
+                    Helper.Presentaciones(cadeteria.Cadetes[0]);
+                }
             } while (op != 0);
         }
-    }//podemos cargar la lista de cadetes vacia, la cual incluiria la lista de pedidos vacia, y la cual cada pedido tendria un cliente vacio
+    }
 }
