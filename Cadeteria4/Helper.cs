@@ -98,5 +98,15 @@ namespace Cadeteria4
                 Console.WriteLine("***************************************");
             }
         }
+        public static void mostrarEmpleado(Cadete cadete) {
+            Console.WriteLine("CADETE: {0} ({1}), direccion: {2}, telefono: {3}\n", cadete.Nombre, cadete.Id, cadete.Direccion, cadete.Telefono);
+        }
+        public static void mostrarEmpleados(List<Cadete> cadetes)
+        {
+            foreach (Cadete cadete in cadetes)
+            {
+                Console.WriteLine("CADETE: {0} ({1}), direccion: {2}, telefono: {3}\n", cadete.Nombre, cadete.Id, cadete.Direccion, cadete.Telefono);
+            }
+        }
     }
 }
